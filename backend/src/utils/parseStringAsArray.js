@@ -1,3 +1,5 @@
 module.exports = function parseStringAsArray(arrayAsString){
-    return arrayAsString.split(',').map(tech => tech.trim())
+    let r = String(arrayAsString)
+    
+    return r.split(', ').map(tech => tech.trim()).map(tech => tech.toUpperCase())
 }
