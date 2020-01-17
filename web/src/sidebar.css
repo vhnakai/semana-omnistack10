@@ -29,6 +29,10 @@ aside form .input-group {
     grid-template-columns: 1fr 1fr ;
 }
 
+aside form .input-group .input-block input{
+    width:  100px;
+}
+
 aside form .input-group .input-block{
     margin-top: 0;
 }
@@ -42,13 +46,14 @@ aside form .input-block label{
 }
 
 aside form .input-block input{
-    width: 100px;
+    width: 200px;
     height: 32px;
     font-size: 14px;
     color: #666;
     border: 0;
     border-bottom: 1px solid #eee ;
 }
+
 
 aside form button[type=submit]{
     width: 100px;
