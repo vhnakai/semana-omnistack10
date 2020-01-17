@@ -12,7 +12,11 @@ html, body, #root {
     height: 100%;
 }
 body{
-    background: #E5e6f0;
+<<<<<<< HEAD
+    background: #9a6ae9;
+=======
+    background: #9a6ae9;
+>>>>>>> fcb1323dd0eb3426f591590035a95e5114ae48fc
     -webkit-font-smothing: antialiased;
 }
 
