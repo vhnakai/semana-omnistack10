@@ -2,11 +2,8 @@
 li.dev-item{
     background: #fff;
     box-shadow:  0 0 14px 0 rgba(0,0,0,0.02);
-<<<<<<< HEAD
+
     border-radius: 10px;
-=======
-    border-radius: 10px;
->>>>>>> fcb1323dd0eb3426f591590035a95e5114ae48fc
     padding: 20px;
 }
 li.dev-item header{
